@@ -1,6 +1,3 @@
-102-print_comb5.c
-
-
 #include <stdio.h>
 
 /**
